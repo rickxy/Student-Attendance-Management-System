@@ -191,7 +191,7 @@ CREATE TABLE `tblsessionterm` (
 --
 
 INSERT INTO `tblsessionterm` (`Id`, `sessionName`, `termId`, `isActive`, `dateCreated`) VALUES
-(1, '2021/2022', '1', '0', '2022-10-31'),
+(1, '2021/2022', '1', '1', '2022-10-31'),
 (3, '2021/2022', '2', '0', '2022-10-31');
 
 -- --------------------------------------------------------
