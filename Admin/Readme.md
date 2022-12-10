@@ -1,3 +1,9 @@
  
-**Admin Login Details** Email : admin@mail.comPassword: Password@123 **Teacher Login Details** Email : teacher@mail.comPassword: pass123
+**Admin Login Details**
+Email : admin@mail.com
+Password: Password@123
+
+**Teacher Login Details** 
+Email : teacher@mail.com
+Password: pass123
 
