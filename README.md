@@ -5,7 +5,6 @@ This PHP attendance system project is primarily concerned with dealing with stud
 * Email   : admin@mail.com
 * Password: (Password on the YouTube video)
 
-
 **Teacher Login Details**
 
 * Email   : teacher@mail.com
