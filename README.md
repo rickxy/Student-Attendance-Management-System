@@ -3,12 +3,12 @@ This PHP attendance system project is primarily concerned with dealing with stud
 
 ** Admin Login Details **
 * Email   : admin@mail.com
-* Password: (Password on the YouTube video)
+* Password: 
 
 **Teacher Login Details**
 
 * Email   : teacher@mail.com
-* Password: (Password on the YouTube video)
+* Password: 
 #
 ![Screenshot (1308)](https://user-images.githubusercontent.com/36708000/173136998-4de6eccc-377f-419e-83b6-e767503bbb5d.png)
 #
